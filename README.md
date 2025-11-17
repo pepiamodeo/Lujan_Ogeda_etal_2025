@@ -21,9 +21,7 @@ Structural variables were quantified in plots with and without lizard presence i
 R Project Structure:
 
 * Folder */data*. Datasets in CSV format: 
-    - data_matrices.csv: stage-based demographic matrix for deterministic projections
-    - MeanParam.csv: mean and standard deviation of each demographic parameter
-
+    
 * Folder */R*. R scripts containing data processing and analysis:
   * 00_load_data.R. For data loading and cleaning.
 
