@@ -22,7 +22,8 @@ R Project Structure:
 
 * Folder */data*. Datasets in CSV format: 
     
-* Folder */R*. R scripts containing data processing and analysis:
+* Folder */R*. R scripts for conducting the main analyses in the article. They are supposed to be run within the Rproject environment (relative path indicated):
+
   * 00_load_data.R. For data loading and cleaning.
 
   * 01_use.R. Descriptive statistics
@@ -30,9 +31,7 @@ R Project Structure:
   * 02_PCA.R. Performs Principal Components Analisis on vegetation data
 
   * 03_GLMM.R. Performs GLMM and model selection process.
-
-* Folder */analyses*. R scripts for conducting the main analyses in the article. They are supposed to be run within the Rproject environment (relative path indicated).
-
+  * 
 * Folder */fig*. Figures.
 
 For a full description of the study, data, experimental design, analyses and conclusions please see [DOI].
