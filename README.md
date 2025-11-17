@@ -31,7 +31,7 @@ R Project Structure:
   * 02_PCA.R. Performs Principal Components Analisis on vegetation data
 
   * 03_GLMM.R. Performs GLMM and model selection process.
-  * 
+   
 * Folder */fig*. Figures.
 
 For a full description of the study, data, experimental design, analyses and conclusions please see [DOI].
